@@ -1,6 +1,6 @@
 <template>
   <div class="fullPageBackgrounf">
-    <button></button>
+    <button>Exchange</button>
   </div>
 </template>
 
